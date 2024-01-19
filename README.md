@@ -57,4 +57,4 @@ However, I had help from multiple sources in order to make the website as it is 
 Please refer to the LICENSE in the repo.
 
 ## Deployment
-Link to website: https://upennbootcamp23.github.io/egerev_portfolio-website-refactored/
+Link to website: https://upennbootcamp23.github.io/egerev-portfolio-update/
