@@ -16,7 +16,6 @@ This website contains my portfolio, in which I share facts about me, my work, my
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [Standing with Ukraine](#standing-with-ukraine)
 - [License](#license)
 - [Deployment](#deployment)
 
