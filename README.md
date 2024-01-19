@@ -1,3 +1,5 @@
+![image](https://github.com/upennbootcamp23/egerev-portfolio-update/assets/143010411/62abe1d8-4c07-4205-a5a1-d78bcda12741)
+
 --------------------------------------------------------------------------------------------January 18, 2024 This is an update of my Week 2 - Portfolio project, which includes the projects done so far and the second group project. NOTE: This contains the projects that are deployed to Heroku.
 
 --------------------------------------------------------------------------------------------NOVEMBER 8, 2023 This is an update of my Week 2 - Portfolio project, which includes the projects done so far and the first group project.
